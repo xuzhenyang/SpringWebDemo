@@ -4,7 +4,15 @@ IDE: Intellij IDEA
 
 技术栈: SpringBoot + SpringDataJPA + H2 + Thymeleaf + Lombok
 
+有什么用: emmmm 方便自己做些web相关的实验blablabla
+
 ---
+
+## 召唤术
+
+```
+git clone https://github.com/xuzhenyang/SpringWebDemo.git
+```
 
 ## 弹射起步
 
