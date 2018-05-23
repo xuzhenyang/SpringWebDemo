@@ -116,3 +116,9 @@ update             加载hibernate自动更新数据库结构
 @RunWith(SpringRunner.class)
 @SpringBootTest
 ```
+
+### Swagger
+
+使用springfox-swagger2构建API文档
+
+访问http://localhost:8080/swagger-ui.html
